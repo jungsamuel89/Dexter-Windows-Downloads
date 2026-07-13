@@ -1,11 +1,11 @@
 {
   "packageName": "com.samuel.dexter.desktop",
   "publisher": "CN=Samuel Jung",
-  "version": "0.1.0.3",
+  "version": "0.1.0.4",
   "appInstallerUri": "https://jungsamuel89.github.io/Dexter-Windows-Downloads/windows/Dexter.appinstaller",
-  "msixUri": "https://jungsamuel89.github.io/Dexter-Windows-Downloads/windows/packages/Dexter_0.1.0.3_x64.msix",
-  "msixSha256": "E027404CFFC89E2A86E8BF676D8CD6250FBAF6EE0DC572C9AD6F77FD89633741",
-  "appInstallerSha256": "393D2892B51A954643935FE074FB358D283A1FE27A4919018C259D83B050F952",
+  "msixUri": "https://jungsamuel89.github.io/Dexter-Windows-Downloads/windows/packages/Dexter_0.1.0.4_x64.msix",
+  "msixSha256": "30505FEE189BA71C1DDF2F112A5F25344279E4F4A17F931DA7F03FE56682F12D",
+  "appInstallerSha256": "D33D71138C478979CCE91D4BA193A897E6241153F64C754551F2621AC1296648",
   "requiredContentTypes": {
     ".appinstaller": "application/appinstaller",
     ".msix": "application/msix"
