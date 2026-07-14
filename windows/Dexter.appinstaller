@@ -2,13 +2,13 @@
 <AppInstaller
   xmlns="http://schemas.microsoft.com/appx/appinstaller/2021"
   Uri="https://jungsamuel89.github.io/Dexter-Windows-Downloads/windows/Dexter.appinstaller"
-  Version="0.1.0.6">
+  Version="0.1.0.7">
   <MainPackage
     Name="com.samuel.dexter.desktop"
     Publisher="CN=Samuel Jung"
-    Version="0.1.0.6"
+    Version="0.1.0.7"
     ProcessorArchitecture="x64"
-    Uri="https://jungsamuel89.github.io/Dexter-Windows-Downloads/windows/packages/Dexter_0.1.0.6_x64.msix" />
+    Uri="https://jungsamuel89.github.io/Dexter-Windows-Downloads/windows/packages/Dexter_0.1.0.7_x64.msix" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="false" />
     <AutomaticBackgroundTask />
